@@ -14,3 +14,5 @@ bspc config gapless_monocle      true
 picom
 firefox
 polybar
+bspc rule -a xdg-desktop-portal-gtk state=floating
+bspc rule -a steam state=floating
